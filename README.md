@@ -1,12 +1,7 @@
 # Search-and-Ranking
 Search Relevancy and Product Ranking
 
-Proje
-
-Proje adıSearch Relevancy and Product Ranking for Trendyol
-Şub 2019 – Şu Anda
-
-Proje açıklamasıProduct search is one of the key components in an online retail store. A good product search
+Product search is one of the key components in an online retail store. A good product search
 can understand a user’s query in any language, retrieve as many relevant products as possible,
 and finally present the results as a list in which the preferred products should be at the top, and
 the less relevant products should be at the bottom. As it can be understood that there are two
